@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaCheque", "MaquinaCheque\MaquinaCheque.csproj", "{F5FC52F8-78D0-4D0A-837C-932B55211EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FC52F8-78D0-4D0A-837C-932B55211EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FC52F8-78D0-4D0A-837C-932B55211EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FC52F8-78D0-4D0A-837C-932B55211EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FC52F8-78D0-4D0A-837C-932B55211EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA067D23-539A-4E88-97A8-4E7EF4BAA8DC}
+	EndGlobalSection
+EndGlobal
